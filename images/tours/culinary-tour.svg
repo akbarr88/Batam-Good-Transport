@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="560" viewBox="0 0 800 560">
+  <defs>
+    <linearGradient id="g12096" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0F2A44"/>
+      <stop offset="100%" stop-color="#2E86DE"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#g12096)"/>
+  <circle cx="624.0" cy="403.2" r="235.2" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1.5"/>
+  <circle cx="624.0" cy="403.2" r="168.0" fill="none" stroke="rgba(255,255,255,0.06)" stroke-width="1.5"/>
+  <circle cx="624.0" cy="403.2" r="100.8" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="1.5"/>
+  <rect x="64.0" y="224.0" width="80.0" height="4" rx="2" fill="#247BCE"/>
+  <text x="64.0" y="291.2" font-family="Arial, sans-serif" font-size="50" font-weight="700" fill="#ffffff">Culinary Tour</text>
+  <text x="64.0" y="347.2" font-family="Arial, sans-serif" font-size="30" fill="rgba(255,255,255,0.75)" letter-spacing="3">HALF / FULL DAY · LOCAL FLAVOURS</text>
+  <text x="64.0" y="504.0" font-family="Arial, sans-serif" font-size="22" fill="rgba(255,255,255,0.45)" letter-spacing="2">BATAM GOOD TRANSPORT</text>
+</svg>
